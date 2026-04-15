@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" fill="none">
+  <!-- Soft background wash -->
+  <rect width="400" height="200" fill="#fef3c7" opacity="0.75"/>
+
+  <!-- Monitor/Screen -->
+  <rect x="180" y="25" width="180" height="115" rx="12" fill="#fde68a" opacity="0.7"/>
+  <rect x="190" y="35" width="160" height="90" rx="6" fill="#fef9c3" opacity="0.75"/>
+  <!-- Monitor stand -->
+  <rect x="255" y="140" width="30" height="20" rx="2" fill="#fde68a" opacity="0.6"/>
+  <rect x="240" y="157" width="60" height="6" rx="3" fill="#fde68a" opacity="0.6"/>
+
+  <!-- Play button -->
+  <circle cx="270" cy="80" r="25" fill="#fbbf24" opacity="0.6"/>
+  <polygon points="262,67 262,93 284,80" fill="#f59e0b" opacity="0.7"/>
+
+  <!-- Film reel / decorative -->
+  <circle cx="60" cy="50" r="35" fill="none" stroke="#fde68a" stroke-width="3" opacity="0.7"/>
+  <circle cx="60" cy="50" r="12" fill="none" stroke="#fbbf24" stroke-width="2" opacity="0.6"/>
+  <circle cx="60" cy="50" r="4" fill="#fbbf24" opacity="0.6"/>
+  <!-- Sprocket holes -->
+  <circle cx="60" cy="20" r="5" fill="#fde68a" opacity="0.5"/>
+  <circle cx="60" cy="80" r="5" fill="#fde68a" opacity="0.5"/>
+  <circle cx="30" cy="50" r="5" fill="#fde68a" opacity="0.5"/>
+  <circle cx="90" cy="50" r="5" fill="#fde68a" opacity="0.5"/>
+
+  <!-- Film strip -->
+  <rect x="20" y="120" width="120" height="50" rx="4" fill="#fde68a" opacity="0.5"/>
+  <rect x="28" y="128" width="20" height="16" rx="2" fill="#fbbf24" opacity="0.45"/>
+  <rect x="55" y="128" width="20" height="16" rx="2" fill="#fbbf24" opacity="0.45"/>
+  <rect x="82" y="128" width="20" height="16" rx="2" fill="#fbbf24" opacity="0.45"/>
+  <rect x="109" y="128" width="20" height="16" rx="2" fill="#fbbf24" opacity="0.45"/>
+  <!-- Perforations -->
+  <circle cx="30" cy="158" r="3" fill="#fbbf24" opacity="0.4"/>
+  <circle cx="50" cy="158" r="3" fill="#fbbf24" opacity="0.4"/>
+  <circle cx="70" cy="158" r="3" fill="#fbbf24" opacity="0.4"/>
+  <circle cx="90" cy="158" r="3" fill="#fbbf24" opacity="0.4"/>
+  <circle cx="110" cy="158" r="3" fill="#fbbf24" opacity="0.4"/>
+  <circle cx="130" cy="158" r="3" fill="#fbbf24" opacity="0.4"/>
+
+  <!-- Decorative -->
+  <circle cx="370" cy="170" r="8" fill="#fde68a" opacity="0.6"/>
+  <circle cx="380" cy="25" r="5" fill="#fbbf24" opacity="0.45"/>
+</svg>

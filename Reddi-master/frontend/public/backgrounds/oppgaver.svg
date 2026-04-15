@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" fill="none">
+  <!-- Soft background wash -->
+  <rect width="400" height="200" fill="#eff6ff" opacity="0.8"/>
+
+  <!-- Notebook page -->
+  <rect x="200" y="15" width="150" height="170" rx="8" fill="#dbeafe" opacity="0.75"/>
+  <!-- Notebook lines -->
+  <line x1="215" y1="50" x2="335" y2="50" stroke="#93c5fd" stroke-width="1.5" opacity="0.7"/>
+  <line x1="215" y1="72" x2="335" y2="72" stroke="#93c5fd" stroke-width="1.5" opacity="0.7"/>
+  <line x1="215" y1="94" x2="335" y2="94" stroke="#93c5fd" stroke-width="1.5" opacity="0.7"/>
+  <line x1="215" y1="116" x2="335" y2="116" stroke="#93c5fd" stroke-width="1.5" opacity="0.7"/>
+  <line x1="215" y1="138" x2="335" y2="138" stroke="#93c5fd" stroke-width="1.5" opacity="0.7"/>
+  <!-- Margin line -->
+  <line x1="235" y1="15" x2="235" y2="185" stroke="#fca5a5" stroke-width="1" opacity="0.5"/>
+
+  <!-- Pencil -->
+  <g transform="translate(60, 30) rotate(25)">
+    <rect x="0" y="0" width="140" height="14" rx="2" fill="#fde68a" opacity="0.85"/>
+    <polygon points="140,0 155,7 140,14" fill="#fbbf24" opacity="0.75"/>
+    <rect x="0" y="0" width="18" height="14" rx="2" fill="#f9a8d4" opacity="0.7"/>
+    <rect x="0" y="0" width="18" height="14" rx="2" fill="none" stroke="#f472b6" stroke-width="1" opacity="0.45"/>
+  </g>
+
+  <!-- Checkboxes -->
+  <rect x="40" y="120" width="16" height="16" rx="3" fill="none" stroke="#93c5fd" stroke-width="2" opacity="0.75"/>
+  <polyline points="43,128 47,133 55,124" stroke="#3b82f6" stroke-width="2.5" fill="none" opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="40" y="145" width="16" height="16" rx="3" fill="none" stroke="#93c5fd" stroke-width="2" opacity="0.75"/>
+  <polyline points="43,153 47,158 55,149" stroke="#3b82f6" stroke-width="2.5" fill="none" opacity="0.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="65" y="123" width="60" height="6" rx="3" fill="#93c5fd" opacity="0.6"/>
+  <rect x="65" y="148" width="45" height="6" rx="3" fill="#93c5fd" opacity="0.5"/>
+
+  <!-- Decorative elements -->
+  <circle cx="370" cy="30" r="10" fill="#bfdbfe" opacity="0.6"/>
+  <circle cx="355" cy="50" r="6" fill="#93c5fd" opacity="0.45"/>
+  <text x="15" y="30" font-family="serif" font-size="24" fill="#93c5fd" opacity="0.45">A+</text>
+</svg>
